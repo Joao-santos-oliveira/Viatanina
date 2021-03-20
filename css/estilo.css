@@ -1,0 +1,49 @@
+body {
+    background-color: #e2d8e7;
+    color: #21022d;
+   
+}
+
+h1 {
+    margin: 0;
+}
+#vitamina{
+    text-align: center;
+    background-color: #21022d;
+    color: white;
+    margin-bottom: 60px;
+    
+}
+.post img{
+    width: 150px;
+    height: 150px;
+    margin-left: 64px;
+   
+}
+.post{
+    padding: 64px;
+  
+}
+#importante{
+    text-align: center;
+    background-color: #21022d;
+    color: white;
+}
+#centro{
+    text-align: center;
+    margin-top: 64px;
+    margin-bottom: 32px;
+}
+h3{
+    margin-top: 64px;
+}
+h2{
+    margin-bottom: -32px;
+    margin-top: 16;
+    margin-left: 16px;
+}
+img{
+   height: 300px;
+   width: 500px; 
+   margin-left: 300px;
+}
