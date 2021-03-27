@@ -1,7 +1,6 @@
 body {
     background-color: #e2d8e7;
     color: #21022d;
-   
 }
 
 h1 {
@@ -11,7 +10,8 @@ h1 {
     text-align: center;
     background-color: #21022d;
     color: white;
-    margin-bottom: 60px;
+    margin: -10px;
+    
     
 }
 .post img{
@@ -22,12 +22,14 @@ h1 {
 }
 .post{
     padding: 64px;
+    
   
 }
 #importante{
     text-align: center;
     background-color: #21022d;
     color: white;
+    margin: -10px;
 }
 #centro{
     text-align: center;
@@ -46,4 +48,10 @@ img{
    height: 300px;
    width: 500px; 
    margin-left: 300px;
+}
+.Borda{
+ border: white 24px solid;
+ margin: -10px;
+ padding: -10px;
+ margin-top: -15px;
 }
